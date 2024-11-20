@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "personal-website-437710",
+  "private_key_id": "ae4914b1bc84d01b1547bf5aa8638288462a906b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC79uFJ/eyw2Amf\nF0asm6IkyC3urMfgkh35tbZjh1r+mlIGWOrmCoqsGPWRzIJ65RIn1Ua8agK7TMHW\npFg+okU3apKIPTEjtCYFdP25KQIDp8Yf45rhLZjWu+z4i67Q0cbJ/i1Sh8oI8dER\n9HJwU2jInRGIGSnvxr7OkMmKK/LEd9zbBtbSmwYQGvYExwxpO6C6murlURkCByY+\nt3PXxS3zlS3AbvvF+JTTK1GUvKoPTuTV5TXuAPWUxcG5vO7yNXNRpq6g22P/moVW\njQHGw/aUaVJLdKZ30lUxe8KUs1C3EALjUVo1FhmzpsX3oa+Typ61nOf3CCiqAsTz\nYJVZVi/HAgMBAAECggEAXU7lsLr+hB2CzTibS3VpDPRYpOqdwJQYkE0N8SOQ3uIR\nxPfgB/mEtIEhatLIlSRhGmgMGN1RZNRqR1jHO7SHQsbDXiFuYuh7lWrpx0CdsN3Z\nAxyUVqMxg6u/q/R/gEca9UwaCKXC/CS64jxkkPE/C5O5T8QaJt8U+msyuUYu2itC\nJuycYfjisP+qJ9exb2G8jqKq9PU0x8pn9P5sBlH50wI7Mm7z8Dg6k4eNrZrGPA56\n1AHif5BxO4p0FaacHxJ7r7FAdmsPVC7x8/uYnkhCWjBOTucpiQlC7ScOqFAxeBGN\n11nCx3+6fFOcrkKi1OOhs3oqLMx1S3VOCW6709EsoQKBgQDrDl2dwMqTAKI8VwV5\nQmgqLTPLLPy4UKxnl/HPzd0Af2MwfYcnrxPrrN4Aii3N57NEho4dN25cmgARh2hq\ntVvZODgOKMeC1boR6w+NHG4gTxj3MIlKoDChsf2fOy9KI8hYShWIYMbpy7Ie9fRF\nuCuY/6mnBCSoqSEYAexStOGBZwKBgQDMtlnS/qTKwFsSCqAEHaFFuTPquPxAxOAi\nh/Rstg+RVDNDLqx2lj+lPqGhFuSNd8oXqwin/yy5wNkysC+zPpqbLAvaM4E09eiy\nQL8MofzJ3K9bJ5eilNS6Daym8dxs9lUWXdvWusRgoh2B1tdNanbJ0gLuXarbCtW2\nCKIvQdcCoQKBgDMuV5gH6JQFqU22LQzwNrooSYTN8OE5P7D21sJGsv5uvmxKiOlN\nJ+tDIru/WqXg85nSKpOWBEPJjIZEk6nYf31Wzm3W10pXu0I3ipVRQXFrh6YbPWmw\nY6ZxmSXYvz1HeVIwH2wolmdF4Sz4pQ2hQmz4Djq9njXTTc9qa8i+dfO1AoGBAL0l\nt/U2h/k2pm8TFir3Xa3Yo9m7Noh54EbHq9ZOmi/DxuHKXFvuE7yRFDKNvnvgNQCN\nbaAcLK0tPQKSvGA39g5uMj1Y3Yebt3gMTvpTKgkyOWxWNstoDO4j+GUAkJS1PoU+\nEARl6VEIOY9gfOrw9fUgcMjiDx348uIRNBnKEepBAoGBAKZKiyWYuz8vDGqNs6mp\nmsYOTE6d2KAcTeWORR4Shqep4LXao4FFh1DYcQC/d/knmxtngFkI0LvewAmUW6au\nPTBAMSe8SyGEeguA2foB9e8paaPjUGvXflu9lvfI9itjKCejYNwfWTNdWDyJr8ic\njWybf1mmjykYI1pSyiDorq/k\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdf-reader@personal-website-437710.iam.gserviceaccount.com",
+  "client_id": "114203992916394520898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdf-reader%40personal-website-437710.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

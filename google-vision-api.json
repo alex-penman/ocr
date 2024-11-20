@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "truephonetics",
+  "private_key_id": "c8611ca018fd46d954c50df452444af245ccbee5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDN94cnbwMshP1O\nZV9ti9GHsnay5Ba4O0UqOXGRcYV7Ojvs7V07jUIbIckzoN3ijQXQa8VmqXGnwDlJ\n0cUnJDrCQplhivhplKLlaQJFB2a6tYnFYyqAbynknaLX+ladrEL8gIf2ISzwJeMR\nSjcBIfdDZ4+x9SEtp7kxCDMV/cMz5qg2PU9qIuCA9oVhsekEsRk9G0thH9kiSQ2D\nUOLgPFu7CCX+/1v50rBdKSKAkY5X+OhW+ivGTotORfMC9WP5pi+SGQ8OFI0BruHZ\nNCPHQWq1C6tOHSJSdcNCMCE8PIJJ7PVhEBV9ThE1aJc0104blJXzfPYTc85jandD\n4ii/2nmzAgMBAAECggEACXbPRthkbL5FP9eLbzNjUsXri5EzGtupjb6LLmPpMar3\nJ/R8OglMOVNWTtrPqnvqZ+C1dsZgcS6omaP1WDTjXxvD6n+1P6MgNqrNlOU5kWi+\nebIMOOlivNBVgQq0W8hkYS/fj3q7LHz0YxrMgW8Et2jINiTz++7e2DCIds4GeZle\nUZn8l0BAfrZdluWofvx1NAdfQV3tybwCdUqfXdVY1jw0rMO3LlrW4WJzKnGyEyXh\nB8S8xgChKwrQCEVDS/7/yQ0Y43MSaACl6ANmgxoJ9Xdp8cP1Bwu4eTvUXac02n64\nBQfAVz+UBGPsBM8Ett0Gz2OtvpG6jH4Cd6ZHFSBAuQKBgQD4Jwi8TdlUV79NQYuj\nXzcXsE9kPBPgUAqrzVPTJet9DRtEcwNY2jXVEXP0C6HCBT1lTYQH6s4o122meFNh\nhJV03K/SjVaKUXoh/xrmm8Ea2xR1vr2aU3N5y/3h1wVOrz89WH/AcvHw8+6R2nQJ\nqa39Hu1kB/6HSgGyI0ElpfhxtwKBgQDUevjy9wPgrmeZM7b+gYnEkr/TBPtzJUyH\nLMIPMiu24QwAoQ0Ae3BpBdoqSIWpQt+b7IbXTWGLnsAZRfQU0ILh+qdIMBZ8BpJn\njhceukEx8+4cuMgT1nr9znH4rUF2Nav1OmqStPt/a0GBWuCuXF07KiRCVcSVEaSR\n2B6uG4VH5QKBgQC8FZHob7T+2Xc0zi5RiJSQTuEN3v9NsD02VG1ph79CTBHTwrzR\ntqrAsPbLDZnwHdqYErW07oKNsCL63w6LxlsldTOKifgC5JiGdf3ktj8Z5N1QFV9O\nPlwy/6uRZlEuf2OWUqKZskWw1KKJSCNVQ5eNV8ikXe7MigpZA6GYMIDrZwKBgQDE\ng0cjTpljf2mJI28nSx7jkuWegIkeIWz5x8dizn/nj5POMSUZQRDh0OvJF3Gm7ZZp\nWwQKtCJ3QsdfmHb5mS6zWWLFPNROuLVG2P9BB/mr/XJHVg6ValQt0HVQDMzySwlS\nsEhIjuHbIpNe03HhUMNZKMyIHVLGm56c1EjrtcA6kQKBgQDptRr0yX0EMgIeg/vR\nqyWrlbhcA+3Eq5u8hQX5FHNsrgD5ceANFxUUY5JLN6Hk13Mp38l3vTWw5yYeSXMK\nyKrFN6JU+1/CTRW7C4YEyHXFff28/94p8VXFqDYGpINrkzi+6xo3TV8wfSdUovij\nYRVnhBzYn2ofUX+FcYA8xJmgkQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-vision-ocr@truephonetics.iam.gserviceaccount.com",
+  "client_id": "114308391718490775958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-vision-ocr%40truephonetics.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
